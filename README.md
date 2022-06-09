@@ -7,3 +7,5 @@
 ⏰: GMT or BST
 
 [Notebooks and tutorials](https://verbingnouns.github.io/notebooks/)
+
+Thank you for your patience while I reboot my website.
