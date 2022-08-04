@@ -2,7 +2,7 @@
 layout: page
 title: "About Me"
 permalink: /about/
-theme: hacker
+remote_theme: chrjabs/Grape-Academic-Theme
 ---
 
 # About
