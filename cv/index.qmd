@@ -35,7 +35,7 @@ engine: knitr
 </p>
 
 <div class="embed-container">
-  <iframe src="https://drive.google.com/file/d/0B5blL1tcy5_hUlc2SW5FVWdNdWc/preview?resourceKey=0-a8RSTTMesA7wDNBDxBK1cA" width="640" height="480" allow="autoplay"></iframe>
+  <iframe src="https://drive.google.com/file/d/0B5blL1tcy5_hUlc2SW5FVWdNdWc/view?resourcekey=0-a8RSTTMesA7wDNBDxBK1cA" width="640" height="480" allow="autoplay"></iframe>
 </div>
 ```
 
