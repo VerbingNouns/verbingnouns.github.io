@@ -1,0 +1,45 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/headshot.png"
+  links:
+    - icon: calendar-check-fill
+      text: Book a meeting
+      href: https://calendly.com/lauren-ackerman
+    - icon: envelope
+      text: Email me
+      href: "mailto:lauren.ackerman@ncl.ac.uk"  
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=XA5ggZQAAAAJ&hl=en&oi=ao
+---
+
+::: {#about-block}
+
+I am the Lab Manager for the Experimental Linguistics Laboratory ([LingLab](https://www.ncl.ac.uk/ecls/about-us/facilities/linglab/)) at Newcastle University in the School of Education, Communication, and Language Science (ECLS), the School of English Literature, Language and Linguistics (SELLL), and the School of Modern Languages (SML). I am also affiliated with Newcastle’s Centre for Behaviour and Evolution and I am a Fellow in the Research Education and Development programme (RED) in School X.
+
+:::
+
+## My role
+
+As Lab Manager, I provide research support for staff and students doing research on linguistics and language sciences, specializing in training and support for statistics, quantitative methods, and experimental design.
+
+## My research overview
+
+My research interests primarily concern what information is available to the language processing mechanism during sentence comprehension, and what the timing of access and integration of this information is. The kind of information I am most curious about has shifted over the past few years, including more and more domain-general cognitive processes and world knowledge. For instance, I am currently investigating how the mental representation of human gender (as a spectrum and as categories) influences the ability of lexical items (e.g., pronouns and names) to corefer.
+
+I am also interested in how prosodic, grammatical, and lexical information affects comprehension in real-time sentence processing, including wh-questions, center-embedded sentences, and long-distance dependencies triggered by cataphora. My PhD dissertation (2015) examined how lexical and structural biases affect the parser’s behavior upon encountering a locally ambiguous string.
+
+In addition, I work on inter- language/talker differences in pitch and speech spectra, processing of gapped constructions, and the cues to phonemic identity from consonant transitions in the acoustics of singing. Before entering grad school, I annotated coreference and named entities for the DARPA Global Autonomous Language Exploitation (GALE) project at BBN Technologies and annotated acoustic landmarks under Stefanie Shattuck-Hufnagel at the MIT Research Laboratory of Electronics. I also have worked as an intervention specialist for young autistic children.
+
+## In my free time
+
+Outside of the lab, you can find me hiking/walking, creating art and crafting, or being “extremely online”.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.ncl.ac.uk/ecls/people/profile/laurenackerman.html" role="button" target="_blank" style="padding: 15px 30px;">Visit my official Newcastle University page</a>
+</div>
+```
+

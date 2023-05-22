@@ -1,0 +1,153 @@
+---
+title: "Miscellaneous"
+---
+
+::: {.panel-tabset}
+
+## [My Erdős number]
+
+My vanity got the best of me and I [calculated](http://www.ams.org/mathscinet/freeTools.html?version=2) my [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number): at most 5. I got some [help](https://twitter.com/VerbingNouns/status/913857250493648898) in finding the shortest path, which is as follows:
+
+0. Paul Erdős [→](http://www.tandfonline.com/doi/abs/10.1080/16073606.1993.9631740) 1. Johannes H. Hattingh
+1. Johannes H. Hattingh [→](http://www.sciencedirect.com/science/article/pii/S0012365X07001689) 2. Andrew R. Plummer
+2. Andrew R. Plummer [→](http://www.sciencedirect.com/science/article/pii/S0885230816303540) 3. Benjamin Munson
+3. Benjamin Munson [→](http://asa.scitation.org/doi/abs/10.1121/1.1788729) 4. Ann R. Bradlow
+4. Ann R. Bradlow [→](http://asa.scitation.org/doi/abs/10.1121/1.4806558)[→](https://drive.google.com/file/d/0B5blL1tcy5_hT0FkcEFsM200SG8/view) 5. Lauren M. Ackerman
+
+## [Party Chomsky]
+
+If you’d like to party hard and sleep furiously, [this shirt](http://www.redbubble.com/people/jazzmoth/works/17704868-party-chomsky) (or [this one](https://society6.com/product/party-chomsky_t-shirt)) may be for you!
+
+<img src="party-chomsky.jpg" style="border:5px groove lightgray; height: 100%; width: 100%; object-fit: contain"/>
+
+## [Weather blends found in the wild]
+
+* Snowmageddon
+* Snowpocalypse
+* Tsnownami
+* SnOwMG
+* Snoverload
+* Snowloko
+* Blizzaster
+* Blizzunderstorm
+* Snotorious B.I.G.
+* Snowprah
+* Chilizzard
+* Snowcago
+
+
+## [Linguist pick-up lines (2011)]
+
+|TwitterName | #LinguistPickupLine |
+| ---------  | ------------------- |
+| AnotherLinguist | Are you from an interior social class b/c you're really promoting a change from below |
+| bdevan | How about I show you how clitic climbing works? |
+| crfarrington1 | do you have dark or light liquids? |
+| crfarrington1 | your labiovelar glides are below the level of my consciousness right now. |
+| crfarrington1 | your oral closure gives me stiff phonation on the vocalic stream... |
+| crfarrington1 | I bet I can find a new way of analyzing your variation |
+| crfarrington1 | Your ash is a little tense. let me make it lax. |
+| crfarrington1 | Your strong glides makes my BITE weak |
+| crfarrington1 | Let me be a change from within your prenasal ash... it'll be our little community of practice |
+| crfarrington1 | I'll let you back your "I" nucleus right into my thoughts. |
+| ecormany | don't worry about parsing me, i'm context free. |
+| ecormany | you must have an EPP feature, because you're causing some otherwise unexpected raising |
+| ecormany | i don't believe in phrase impenetrability, so i should get to see all the way down inside you |
+| hanachronism | I wish y, ɨ, ʉ and ɯ didn't exist so u and i could be together. |
+| hanachronism | I am a linguist. If you come with me we will be 2. We will be 2 _________. |
+| hanachronism | You look like a model. What programming language are you written in? |
+| hanachronism | The selective pressure for the larynx descending in our ancestors was so that I could tell you how pretty you are. |
+| imnotsatan | Hey baby, I think we could be matched guys |
+| imnotsatan | Are you an informant? Because I want to spend four to six weeks with you. |
+| jasonbaldridge | let's get fricative |
+| kaitlinjohnson | I think you're the Optimal candidate. |
+| KevinBMcGowan | Come back to my lab and let's measure your voicing during closure. |
+| KevinBMcGowan | I hope you're the target item because you're the only part of the visual world I can fixate. |
+| KevinBMcGowan | You're so good at pressing my buttons? You make me feel like a response box. |
+| KevinBMcGowan | You make me think there ought to be an IPA symbol for quadrilabial glide. |
+| kristinelliott | I'd like to insert you into my tableau & apply some constraints until we get an optimal output. |
+| linguajinks | I'm into relationships involving strict dominance, control, and binding. |
+| linguajinks | Let's figure out our optimal linearization. |
+| linguajinks | Look, I study Bantu DP structure. I'm all class, all the time. |
+| linguajinks | Oh, let's just be real here, there's nothing principled about my search for an extended projection. |
+| linguajinks | I'd like to violate your constraints. |
+| linguajinks | I'm just a fine substrate looking for the right someone to lexify me. |
+| linguajinks | I wasn't so sure about this position before, but you've got a good Case for it. |
+| linguajinks | Cinque, Rizzi, and Kayne got nothin' on MY functional projections. |
+| linguajinks | I study labials. *ALL* of the labials. |
+| linguajinks | It's okay that you're into Goffman. I'm a footing fetishist, too. |
+| linguajinks | (from the Faceyspaces) I wish I were an anaphor so I could be bound in your domain. |
+| linguajinks | Everything I do gets a good response, I've got a hi Event Related Potential. |
+| linguajinks | I'll make your dendrites reach an excited state every time. |
+| linguajinks | How do you feel about swapping partners? Because I'm totally into Strong Crossover Effects. |
+| linguajinks | Everyone loves a linguist. Ambiguous? It's ☞this guy.☜ |
+| linguajinks | You look like you could satisfy my Gricean maxims of quantity AND quality. |
+| linguajinks | Person 1: I study lexical semantics and ambiguity. Person 2: In that case, I'd like you to come with me. |
+| linguajinks | [λx [λy [x want to sleep with y] (you) ] (I)] |
+| lousylinguist | You have beautiful right node raising. Are you a model? |
+| maryam_bakht | Let's Move and Merge. Then I'll blow your mind with clitics. |
+| maryam_bakht | I'm just an Empty Operator looking for the right EPP. |
+| maryam_bakht | I'm just a minimalist kind of girl. Prepose a maximal projection and I'm good. |
+| maryam_bakht | I have to tell you: You put me in A-position. |
+| maryam_bakht | I'm an expert in stylistic variation |
+| maryam_bakht | Shift your footing? I'm trying to get at your face. |
+| maryam_bakht | Oinoglossia |
+| maryam_bakht | You and me are (n+1). |
+| maryam_bakht | Forget about Variable Rules! Come with me and I will expand your repertoire. |
+| mikeclauss | Have you ever considered Binding? |
+| NemaVeza | Excuse me, I couldn't help Noticing... |
+| NemaVeze | Come with me, and I'll give you a total physical response. |
+| nickdan | When you say "stop" all I hear is "continuant" |
+| nickdan | I think your [+high] feature has spread onto me because I am experiencing some sort of harmony |
+| nickdan | I'm really busy with school but maybe you'd want to get coffee during the week sometime? :( |
+| nickdan | *PantsOn is highly ranked. |
+| nickdan | I want to embed my PP in your VP |
+| norsk_heks | If you show me your linguolabial stop, I'll show you my pitch range. |
+| norsk_heks | You don't have to worry about Poverty of the Stimulus with me. |
+| norsk_heks | With my elegant grammar, you can be sure you'll get the right output for your input. |
+| RT nikki_isabel | Wanna experience my advanced tongue root? You and I would be a perfect minimal pair. |
+| RT SpecGram | What's a nice interlocutor like you doing in a speech community like this? |
+| RT SpecGram | If you were a verb, and I were a noun, would you incorporate me? |
+| scootereater | I'd merge with you like cot/caught. |
+| scootereater | Your low back merger is nice. |
+| scootereater | I’d measure your formants all night. |
+| scootereater | Say my name. |
+| scootereater | You wouldn’t even need a band pass filter. |
+| scootereater | I'd love to plot your vowels. |
+| scootereater | Ever heard of a filled pause? |
+| scootereater | You meet all of my Felicity Conditions. |
+| scootereater | I'm just thinking about you and positioning. |
+| scootereater | I know a little something about labialization. |
+| scootereater | I specialize in the language...of love. |
+| scootereater | Ever heard of Brown & Levinson? Because I've got a very special Face Threatening Act in mind. |
+| scootereater | I'd like to recontextualize you from here to my bed. |
+| scootereater | I'm picking up on your Contextualization Cues; whatsay we code-switch out of these clothes? |
+| scootereater | I have no problem being performative |
+| semnewman | I need to drop my open o to accommodate your extended vocal tract |
+| semnewman | I could take you on an F0 excursion. |
+| the7train | i'd like my vocalizations to bring YOUR abrupt emergence |
+| the7train | feel free to creolize MY pidgin. |
+| the7train | release your bilabial faster, i might affricate! |
+| the7train | do you only want to confuse our liquids, or can I glide into your vowel position tonight? |
+| tjmahr | Hey girl I like your cupid's bow. Let's flex our orbicularis orises. |
+| tjmahr | Hey speech pathology girl, tell me about your swallowing practicum. |
+| trochee | I'd like to infer some of *your* hidden structure. |
+| TrollinLinguist | Impressed? Wait til you see my hidden structure... |
+| TrollinLinguist | We'd better use some kind of constraint... wouldn't want to have an unplanned reduplication! |
+| TrollinLinguist | You know that kind of talk will lead me to an extended projection on principle... |
+| TrollinLinguist | Naughty? Of course... did I strike you as some sort of behaviorist? |
+| TrollinLinguist | What incredible surface structure; I've never seen a form so logical. |
+| TrollinLinguist | I must be a Wernicke's aphasic; I'm having a hard time comprehending the language of your love. |
+| TrollinLinguist | You know me. I'm always down to harmonize for advanced tongue root. |
+| tzxi ti | Want to make an apico-velar nasal with my tongue and your velum. An unreleased quadrilabial stop will be a by-product. |
+| VerbingNouns | Can you put your trace in my gap? |
+| VerbingNouns | Have you ever tried to Merge and Move? |
+| VerbingNouns | I'll show you my Sausage Machine if you show me yours. |
+| VerbingNouns | If I were stuck in an island, I'd want you to illicitly extract me. |
+| VerbingNouns | The word of the day is "glottis" lets go to my place and spread the word. |
+| VerbingNouns | Are you a perception experiment? Because you activate my lexicon. |
+| VerbingNouns | Are you a phoneme? Because you make my articulators want to oscillate. |
+| VerbingNouns | Fewer grammaticality illusions turn me on than you do. |
+
+
+:::

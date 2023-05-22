@@ -1,0 +1,62 @@
+---
+title: "Teaching"
+---
+
+## R and statistics
+
+Please find my [notebooks and code tutorials here](https://lmackerman.com/notebooks/).
+
+### Workshops
+
+* Newcastle University:
+    - [Adventures in R](lmackerman.com/adventuresInR/) (June 2018, June 2019)
+        - Two-day team-taught workshop on using R for postgraduates
+        - From basic functions and base R, to tidyverse, text-mining, and data visualisation, wrapping up with statistical tools for customized, rigorous analysis
+    - [RfficeHours](https://lmackerman.com/notebooks/rfficehours/info.html) (pre-Autumn tutorials, Sept/Oct 2018)
+        - Led three weeks of tutorials for staff to increase confidence using and supporting students in R
+    - HaSS Training Workshop: Advanced Statistics using R (June 2018)
+        - Led workshop for statistical methods using R
+    - Internet Methods Workshop (March 2018)
+        - Led workshop for methods for gathering behavioural data online
+* University of Reading: Statistics for Linguists in R ([2019](https://lmackerman.com/notebooks/reading/info.html); [2021](https://lmackerman.com/notebooks/reading/info2021.html)):
+    - Summer school course on data manipulation, visualisation, and analysis using the R software package
+* University of Leeds: Workshop on Data Visualisation and Analysis in R (28 February 2019)
+* Universitat Autònoma de Barcelona: Methods in Experimental Syntax
+    - Mini-course on Methods in Experimental Syntax (14-18 January 2019)
+    - Designed and lead mini-course at UAB to introduce analysis and methods in experimental syntax
+
+### Regular courses/modules
+    
+Newcastle University: 
+
+* HSS 8005: Quantitative Analysis; Intro stream (Spring 2023 - present)
+* SEL 8500/8511/8512/8531: Research Methods in Linguistics (Autumn/Spring 2020, 2021, 2022)
+* SEL 1032: Dealing with Data (Spring 2019, 2020, 2021; dataviz and hypotheses lectures)
+* SEL 8513: Variation and the Grammar (Autumn 2017; statistics lecture)
+
+Boise State University:
+
+* LING 305-4,5: Introduction to Language Studies (Spring 2016)
+* LING 312: Introduction to Phonetics and Phonology (Spring 2016)
+* LING 497: Studies in Sentence Processing (Spring 2016)
+
+Northwestern University:
+
+* LING 380: Culture and Fluency (Winter 2013)
+* TGS 509: International Summer Institute (Summer 2014, 2015, 2016)
+    - Practica (practical skills course for incoming international grad students)
+    - SPEAK test preparation
+    - ESL tutoring (also: Fall 2010, Winter 2012, Spring 2013, Fall 2015)
+
+#### Courses TAed
+
+Newcastle University:
+
+* CBE Training Module: R Statistical Software (Autumn 2017)
+
+Northwestern University:
+
+* LING 243: Language Evolution (Fall 2012)
+* LING 250: Sound Patterns of Human Language (Spring 2011, Winter 2015)
+* LING 260: Formal Analysis of Words & Sentences (Winter 2011, Spring 2012)
+* LING 270: Meaning (Fall 2011)
