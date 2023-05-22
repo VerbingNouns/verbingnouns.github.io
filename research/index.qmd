@@ -94,9 +94,9 @@ As a spin-off of this topic, I am also examining the possibility of a multidimen
 
 ## Prosody and syntax
 
-<img src="cerb_graphs.png" style="border:5px groove lightgray; height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://drive.google.com/file/d/0B5blL1tcy5_hYk5fb1h6OGNpZzQ/preview?usp=sharing', 'blank');"/>
+<img src="cerb_graphs.png" style="border:5px groove lightgray; height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://drive.google.com/file/d/0B5blL1tcy5_hYk5fb1h6OGNpZzQ/view?usp=sharing&resourcekey=0-teU1MYqbK7Al9PvP-RWfKA', 'blank');"/>
 
-<a href="https://drive.google.com/file/d/0B5blL1tcy5_hYk5fb1h6OGNpZzQ/preview?usp=sharing" target="_blank">(Old) poster</a><br>
+<a href="https://drive.google.com/file/d/0B5blL1tcy5_hYk5fb1h6OGNpZzQ/view?usp=sharing&resourcekey=0-teU1MYqbK7Al9PvP-RWfKA" target="_blank">(Old) poster</a><br>
 
 Prosodic boundaries may indicate syntactic constituent boundaries, but they are produced with high variability depending on many complex factors. When we speak out of breath, or if we shout across a loud room, or when we’re uncertain, or in a brainfog, or reading, or if we have a speech or language impairment… those boundaries may not occur in the most informative locations. How hard is it to accommodate these anomalous productions? If we’re expecting anomalous prosodic boundaries, do we use prosodic information in the same way as if we’re expecting typical or syntactically informative prosodic boundaries?
 
@@ -108,7 +108,7 @@ It is not clear whether or not the parser will use such information in its initi
 
 * **Ackerman, L.**, M. Yoshida, & J. Pierrehumbert. (2011). Prosodic structure of center-embedded
 sentences. *The 24th Annual Conference On Human Sentence Processing* (CUNY2011) – Stanford
-University, Palo Alto, CA (March 2011). [Poster: PDF](https://drive.google.com/file/d/0B5blL1tcy5_hYk5fb1h6OGNpZzQ/preview?usp=sharing)
+University, Palo Alto, CA (March 2011). [Poster: PDF](https://drive.google.com/file/d/0B5blL1tcy5_hYk5fb1h6OGNpZzQ/view?usp=sharing&resourcekey=0-teU1MYqbK7Al9PvP-RWfKA)
 
 </small>
 
