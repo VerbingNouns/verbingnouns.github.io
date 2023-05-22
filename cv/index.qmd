@@ -29,7 +29,7 @@ engine: knitr
 
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="https://drive.google.com/file/d/0B5blL1tcy5_hUlc2SW5FVWdNdWc/view?resourceKey=0-a8RSTTMesA7wDNBDxBK1cA" target="_blank">
+  <a class="btn btn-primary btn-lg cv-download" href="https://drive.google.com/file/d/0B5blL1tcy5_hUlc2SW5FVWdNdWc/preview?usp=sharing&resourceKey=0-a8RSTTMesA7wDNBDxBK1cA" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download&ensp;
   </a>
 </p>
