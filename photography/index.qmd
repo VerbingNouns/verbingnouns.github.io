@@ -1,0 +1,96 @@
+---
+title: "Photography"
+search: false
+filters:
+   - lightbox
+lightbox:
+  match: auto
+  effect: zoom
+  desc-position: bottom
+  loop: true
+---
+
+My name is Biluu Biluubi and I am a retired toy engineer, specializing in optical illusions (peekaboo) and bubbles. I haven't had a chance to enjoy astrophotography or travel, because I am still consulting for a daycare cooperative, providing UI and UX testing on the sandbox environment.
+
+::::: {layout-ncol=2}
+
+### Row 1
+
+:::: {layout-ncol=3}
+
+::: {layout-ncol=1}
+
+![](photos/random1.png){group="a" fig-alt="Neons (2023)"}
+:::
+
+::: {layout-ncol=1}
+
+![](photos/random2.png){group="a" fig-alt="Mermaid (2023)"}
+:::
+
+::: {layout-ncol=1}
+
+![](photos/random3.png){group="a" fig-alt="Alpine (2023)"}
+:::
+
+::::
+
+
+### Row 2
+
+:::: {layout-ncol=3}
+
+::: {layout-ncol=1}
+
+![](photos/random4.png){group="a" fig-alt="Galactic (2023)"} 
+:::
+
+::: {layout-ncol=1}
+
+![](photos/random5.png){group="a" fig-alt="Cool (2023)"} 
+:::
+
+::: {layout-ncol=1}
+
+![](photos/random6.png){group="a" fig-alt="Saharan Night (2023)"} 
+:::
+
+::::
+
+:::::
+
+I made these while covered in yogurt, on purpose.
+
+### Row 3
+
+These were all conceptualized while screaming, typically at midnight.
+
+:::: {layout-ncol=3}
+
+![](photos/random7.png){group="c" fig-alt="A little closer (2023)"} 
+
+![](photos/random8.png){group="c" fig-alt="Plastic (2023)"} 
+
+![](photos/random9.png){group="c" fig-alt="My Neighbor's Roses (2023)"} 
+
+![](photos/random10.png){group="c" fig-alt="Peekaboo (2023)"} 
+
+![](photos/random11.png){group="c" fig-alt="Aurora (2023)"} 
+
+![](photos/random12.png){group="c" fig-alt="Culinary (2023)"} 
+
+:::::
+
+
+
+
+```{=html}
+<div style="text-align: center;">
+For formal work enquiries, please call my secretary Robbie on the LED remote: <br/>
+<span style="color:#000000;">(+🟠🟠)🟡⚪🔵-🟢🟣🟢-🔴🟡⚪🔵</span><br/>
+</div>
+
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="gallery14.org/" role="button" target="_blank" style="padding: 15px 30px;">or visit <span style="font-family:'Brush Script MT'; font-size:18pt">Gallery 14</span></a>
+</div>
+```
