@@ -91,6 +91,6 @@ For formal work enquiries, please call my secretary Robbie on the LED remote: <b
 </div>
 
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="gallery14.org/" role="button" target="_blank" style="padding: 15px 30px;">or visit <span style="font-family:'Brush Script MT'; font-size:18pt">Gallery 14</span></a>
+<a class="btn btn-primary" href="https://www.gallery14.org/" role="button" target="_blank" style="padding: 15px 30px;">or visit <span style="font-family:'Brush Script MT'; font-size:18pt">Gallery 14</span></a>
 </div>
 ```
