@@ -7,6 +7,10 @@ website:
   image: img/headshot.png
   
   favicon: img/brainlogo.png
+  twitter-card: 
+    card-style: summary_large_image
+  site-url: https://lmackerman.com
+  google-analytics: "G-W3HSKMRKPX"
   
   # start of the navigation bar at the top of the website
   navbar:
