@@ -31,11 +31,11 @@ My research interests primarily concern what information is available to the lan
 
 I am also interested in how prosodic, grammatical, and lexical information affects comprehension in real-time sentence processing, including wh-questions, center-embedded sentences, and long-distance dependencies triggered by cataphora. My PhD dissertation (2015) examined how lexical and structural biases affect the parser’s behavior upon encountering a locally ambiguous string.
 
-In addition, I work on inter- language/talker differences in pitch and speech spectra, processing of gapped constructions, and the cues to phonemic identity from consonant transitions in the acoustics of singing. Before entering grad school, I annotated coreference and named entities for the DARPA Global Autonomous Language Exploitation (GALE) project at BBN Technologies and annotated acoustic landmarks under Stefanie Shattuck-Hufnagel at the MIT Research Laboratory of Electronics. I also have worked as an intervention specialist for young autistic children.
+In addition, I work on inter- language/talker differences in pitch and speech spectra, processing of gapped constructions, and the cues to phonemic identity from consonant transitions in the acoustics of singing.
 
 ## In my free time
 
-Outside of the lab, you can find me hiking/walking, creating art and crafting, or being “extremely online”.
+Outside of the lab, you can find me hiking/walking, creating art and crafting.
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">

@@ -29,8 +29,8 @@ Please find my [notebooks and code tutorials here](https://lmackerman.com/notebo
     
 Newcastle University: 
 
-* HSS 8005: Quantitative Analysis; Intro stream (Spring 2023 - present)
-* SEL 8500/8511/8512/8531: Research Methods in Linguistics (Autumn/Spring 2020, 2021, 2022)
+* HSS 8005: Quantitative Analysis; Intro stream (Spring 2023 - 2025; 2027 - present)
+* SEL 8500/8511/8512/8531: Research Methods in Linguistics (AY 2020-21, 2021-22, 2026-27)
 * SEL 1032: Dealing with Data (Spring 2019, 2020, 2021; dataviz and hypotheses lectures)
 * SEL 8513: Variation and the Grammar (Autumn 2017; statistics lecture)
 
@@ -48,7 +48,7 @@ Northwestern University:
     - SPEAK test preparation
     - ESL tutoring (also: Fall 2010, Winter 2012, Spring 2013, Fall 2015)
 
-#### Courses TAed
+<!---#### Courses TAed
 
 Newcastle University:
 
@@ -59,4 +59,4 @@ Northwestern University:
 * LING 243: Language Evolution (Fall 2012)
 * LING 250: Sound Patterns of Human Language (Spring 2011, Winter 2015)
 * LING 260: Formal Analysis of Words & Sentences (Winter 2011, Spring 2012)
-* LING 270: Meaning (Fall 2011)
+* LING 270: Meaning (Fall 2011)--->

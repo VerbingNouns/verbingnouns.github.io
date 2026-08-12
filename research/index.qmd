@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 
-My research program asks how the parser navigates and represents sentential structure in real time upon encountering an ambiguous string in the context of certain other linguistic and extra-linguistic information. In other words, how do we use contextual information or world knowledge during parsing?
+My primary research program asks how the parser navigates and represents sentential structure in real time upon encountering an ambiguous string in the context of certain other linguistic and extra-linguistic information. In other words, how do we use contextual information or world knowledge during parsing?
 
 ## Long-distance dependencies, ambiguity, and task-specific effects {.tabset .tabset-pills}
 
