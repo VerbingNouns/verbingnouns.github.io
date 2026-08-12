@@ -6,10 +6,10 @@ about:
   links:
     - icon: calendar-check-fill
       text: Book a meeting
-      href: https://calendly.com/lauren-ackerman
+      href: https://outlook.office.com/bookwithme/user/86f82b4fad01481d87765bdb6586d352@newcastle.ac.uk?anonymous&ismsaljsauthenabled&ep=plink
     - icon: envelope
       text: Email me
-      href: "mailto:lauren.ackerman@ncl.ac.uk"  
+      href: "mailto:lauren.ackerman@newcastle.ac.uk"  
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?user=XA5ggZQAAAAJ&hl=en&oi=ao
